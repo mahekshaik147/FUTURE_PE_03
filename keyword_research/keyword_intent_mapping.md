@@ -6,7 +6,7 @@
 
 
 
-PrimeNest Realty - Real Estate Agency in Bangalore
+Skyline Properties – Real Estate Agency in Bangalore - Real Estate Agency in Bangalore
 
 
 
@@ -37,6 +37,4 @@ PrimeNest Realty - Real Estate Agency in Bangalore
 \* Supporting keywords answer related questions that buyers commonly search for.
 
 \* Together, these keywords form a content cluster that improves topical authority and SEO performance.
-
-
 
